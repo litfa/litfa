@@ -1,6 +1,30 @@
-### Hi! 👋
-一个前端开发者
-点Follow吧qwq~
+# Hi! 👋
+
+一个前端开发者 喜欢点个 Follow 吧 qwq~
+<br>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=litfa&count_private=true&locale=cn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litfa&locale=cn)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=litfa&count_private=true&locale=cn&show_icons=true" >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=litfa&locale=cn" />
+</a>
+
+## 🌱 I’m currently learning
+
+![JavaScript](https://img.shields.io/badge/javascript-%23455.svg?style=for-the-badge&logo=javascript&logoColor=#f0dc4e)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySql](https://img.shields.io/badge/mysql-%23a78b31.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/mongodb-%23aa1.svg?style=for-the-badge&logo=mongodb&logoColor=%231f8435)
+
+## 🔭 参与过的项目
+
+- ### varlet-vue2
+  [![varlet-vue2](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet-vue2&show_owner=true)](https://github.com/varlet/varlet-vue2)
+  [![varlet](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet&show_owner=true)](https://github.com/varlet/varlet)
+
 
 <!--
 **litfa/litfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
