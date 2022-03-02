@@ -22,8 +22,8 @@
 ## 🔭 参与过的项目
 
 - ### varlet-vue2
-  [![varlet-vue2](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet-vue2&show_owner=true)](https://github.com/varlet/varlet-vue2)
-  [![varlet](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet&show_owner=true)](https://github.com/varlet/varlet)
+  [![varlet-vue2](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet-vue2&show_owner=true)](https://github.com/varletjs/varlet-vue2)
+  [![varlet](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet&show_owner=true)](https://github.com/varletjs/varlet)
 
 
 <!--
