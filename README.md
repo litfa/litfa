@@ -23,7 +23,7 @@
   [![web前端](https://github-readme-stats.vercel.app/api/pin/?username=litfPress&repo=blog-v2&show_owner=true)](https://github.com/litfPress/blog-v2)
   [![node后端](https://github-readme-stats.vercel.app/api/pin/?username=litfPress&repo=blog-service&show_owner=true)](https://github.com/litfPress/blog-service)
   [![微信小程序](https://github-readme-stats.vercel.app/api/pin/?username=litfPress&repo=blog-miniprogram&show_owner=true)](https://github.com/litfPress/blog-miniprogram)
-  [![管理后台](https://github-readme-stats.vercel.app/api/pin/?username=litfPress&repo=blog-admin&show_owner=true)](https://github.com/litfPress/blog-admin)
+  [![管理后台](https://github-readme-stats.vercel.app/api/pin/?username=litfPress&repo=admin&show_owner=true)](https://github.com/litfPress/admin)
 ## 🔭 参与过的项目
 
 - ### varlet-vue2
