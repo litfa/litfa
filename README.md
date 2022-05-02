@@ -20,7 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%23aa1.svg?style=for-the-badge&logo=mongodb&logoColor=%231f8435)
 
 ## 我的博客
-  [![web前端](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=blog-v2&show_owner=true)](https://github.com/litfBlog/blog-v2)
+  [![web前端](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=blog&show_owner=true)](https://github.com/litfBlog/blog)
   [![node后端](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=blog-service&show_owner=true)](https://github.com/litfBlog/blog-service)
   [![微信小程序](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=blog-miniprogram&show_owner=true)](https://github.com/litfBlog/blog-miniprogram)
   [![管理后台](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=admin&show_owner=true)](https://github.com/litfBlog/admin)
