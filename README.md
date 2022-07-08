@@ -24,12 +24,6 @@
   [![node后端](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=blog-service&show_owner=true)](https://github.com/litfBlog/blog-service)
   [![微信小程序](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=blog-miniprogram&show_owner=true)](https://github.com/litfBlog/blog-miniprogram)
   [![管理后台](https://github-readme-stats.vercel.app/api/pin/?username=litfBlog&repo=admin&show_owner=true)](https://github.com/litfBlog/admin)
-## 🔭 参与过的项目
-
-- ### varlet-vue2
-  [![varlet-vue2](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet-vue2&show_owner=true)](https://github.com/varletjs/varlet-vue2)
-  [![varlet](https://github-readme-stats.vercel.app/api/pin/?username=varletjs&repo=varlet&show_owner=true)](https://github.com/varletjs/varlet)
-
 
 <!--
 **litfa/litfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
